@@ -20,16 +20,16 @@ Each version processes uploaded images, generates high-quality binary masks, sav
 
 # SAM - BASE
 <p align="center">
-<img src="BASE" alt="Mask viewer">
+<img src="BASE.png" alt="BASE">
 </p>
 
 # SAM - LARGE
 <p align="center">
-<img src="LARGE.png" alt="User Interface">
+<img src="LARGE.png" alt="LARGE">
 </p>
 
 # SAM - HUGE
 <p align="center">
-<img src="HUGE.png" alt="Mask viewer">
+<img src="HUGE.png" alt="HUGE">
 </p>
 
