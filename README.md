@@ -1,4 +1,3 @@
-# Sam-Automatic-Mask-Generator
 # 🧠 Segment Anything Model (SAM) — ViT-B / ViT-L / ViT-H Segmentation
 
 This repository demonstrates **automatic image segmentation** using **Meta AI's Segment Anything Model (SAM)** — tested across three variants:  
